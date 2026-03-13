@@ -1,0 +1,28 @@
+{
+  "7196662666": {
+    "informatics": true,
+    "math_profile": true,
+    "society": true,
+    "biology": false,
+    "english": true,
+    "history": true,
+    "physics": false
+  },
+  "6756790622": {
+    "informatics": true,
+    "math_profile": true,
+    "society": true,
+    "biology": true,
+    "english": true,
+    "history": true,
+    "physics": true,
+    "russian": true,
+    "literature": true,
+    "geography": false,
+    "chemistry": true,
+    "german": false,
+    "french": false,
+    "spanish": false,
+    "chinese": false
+  }
+}

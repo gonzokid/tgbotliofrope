@@ -1,0 +1,49 @@
+{
+  "6756790622": {
+    "user_id": 6756790622,
+    "profiles": {
+      "Яна": {
+        "name": "Яна",
+        "birth_date": "2012-12-25",
+        "arcana": {
+          "personality": 15,
+          "soul": 7,
+          "growth": 8,
+          "year": 11,
+          "day": 5
+        },
+        "last_calculated": "2026-03-01"
+      },
+      "Артур": {
+        "name": "Артур",
+        "birth_date": "2002-05-20",
+        "arcana": {
+          "personality": 11,
+          "soul": 20,
+          "growth": 9,
+          "year": 8,
+          "day": 5
+        },
+        "last_calculated": "2026-03-01"
+      },
+      "Diana": {
+        "name": "Diana",
+        "birth_date": "2003-02-25",
+        "arcana": {
+          "personality": 5,
+          "soul": 7,
+          "growth": 7,
+          "year": 10,
+          "day": 5
+        },
+        "last_calculated": "2026-03-01"
+      }
+    },
+    "history": [
+      "Яна",
+      "Артур",
+      "Diana"
+    ],
+    "next_id": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "6756790622": {
+    "active": true,
+    "tariff": "full",
+    "activated_date": "2026-02-25",
+    "expiry_date": "2026-03-25",
+    "months": 1
+  },
+  "7196662666": {
+    "active": true,
+    "tariff": "full",
+    "activated_date": "2026-02-28",
+    "expiry_date": "2026-03-28",
+    "months": 1
+  }
+}

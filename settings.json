@@ -1,0 +1,102 @@
+{
+  "6756790622": {
+    "user_id": 6756790622,
+    "visible_menu_items": {
+      "EGE": true,
+      "MATH": true,
+      "DATE": true,
+      "VOICE": false,
+      "TASKS": true,
+      "BUFFER": true,
+      "CREATIVITY": false,
+      "QUOTES": true,
+      "SETTINGS": true,
+      "EXIT": true,
+      "HOROSCOPE": false,
+      "NOTES": false
+    },
+    "notifications": {
+      "enabled": true,
+      "time": "09:00",
+      "days": [
+        "Пн",
+        "Вт",
+        "Ср",
+        "Чт",
+        "Пт",
+        "Сб",
+        "Вс"
+      ],
+      "content_tasks": true,
+      "content_routine": true,
+      "content_ege": false,
+      "last_sent": null
+    }
+  },
+  "7196662666": {
+    "user_id": 7196662666,
+    "visible_menu_items": {
+      "EGE": true,
+      "MATH": true,
+      "DATE": true,
+      "VOICE": true,
+      "TASKS": true,
+      "BUFFER": true,
+      "CREATIVITY": true,
+      "QUOTES": true,
+      "NOTES": true,
+      "SETTINGS": true,
+      "EXIT": true
+    },
+    "notifications": {
+      "enabled": false,
+      "time": "09:00",
+      "days": [
+        "Пн",
+        "Вт",
+        "Ср",
+        "Чт",
+        "Пт",
+        "Сб",
+        "Вс"
+      ],
+      "content_tasks": true,
+      "content_routine": true,
+      "content_ege": false,
+      "last_sent": null
+    }
+  },
+  "7132934677": {
+    "user_id": 7132934677,
+    "visible_menu_items": {
+      "EGE": true,
+      "MATH": true,
+      "DATE": true,
+      "VOICE": true,
+      "TASKS": true,
+      "BUFFER": true,
+      "CREATIVITY": true,
+      "QUOTES": true,
+      "NOTES": true,
+      "SETTINGS": true,
+      "EXIT": true
+    },
+    "notifications": {
+      "enabled": false,
+      "time": "09:00",
+      "days": [
+        "Пн",
+        "Вт",
+        "Ср",
+        "Чт",
+        "Пт",
+        "Сб",
+        "Вс"
+      ],
+      "content_tasks": true,
+      "content_routine": true,
+      "content_ege": false,
+      "last_sent": null
+    }
+  }
+}

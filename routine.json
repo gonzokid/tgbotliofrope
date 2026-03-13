@@ -1,0 +1,54 @@
+{
+  "6756790622": {
+    "user_id": 6756790622,
+    "cigarettes": {
+      "habit_type": "🚬 Курение",
+      "current_value": 40,
+      "last_updated": "2026-02-28",
+      "unit": "сигарет в день",
+      "goals": [
+        {
+          "habit_type": "🚬 Курение",
+          "target_date": "2025-03-31",
+          "target_value": 9.0,
+          "unit": "сигарет в день",
+          "created_at": "2026-02-28",
+          "achieved": false,
+          "notes": ""
+        },
+        {
+          "habit_type": "🚬 Курение",
+          "target_date": "2026-03-31",
+          "target_value": 9.0,
+          "unit": "сигарет в день",
+          "created_at": "2026-02-28",
+          "achieved": false,
+          "notes": ""
+        }
+      ],
+      "history": []
+    },
+    "teeth": {
+      "habit_type": "🦷 Чистка зубов",
+      "current_value": 2,
+      "last_updated": "2026-02-27",
+      "unit": "дней",
+      "goals": [],
+      "history": []
+    },
+    "bath": {
+      "habit_type": "🚿 Купание",
+      "current_value": 3,
+      "last_updated": "2026-02-26",
+      "unit": "дней",
+      "goals": [],
+      "history": []
+    },
+    "money": {
+      "current_amount": 0,
+      "weekly_income": 0,
+      "goals": [],
+      "transactions": []
+    }
+  }
+}

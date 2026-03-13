@@ -1,0 +1,39 @@
+{
+  "6756790622": {
+    "user_id": 6756790622,
+    "subjects": {
+      "informatics": {
+        "completed_tasks": [
+          1
+        ],
+        "in_progress_tasks": [
+          2
+        ]
+      },
+      "math_profile": {
+        "completed_tasks": [],
+        "in_progress_tasks": []
+      },
+      "society": {
+        "completed_tasks": [],
+        "in_progress_tasks": []
+      },
+      "biology": {
+        "completed_tasks": [],
+        "in_progress_tasks": []
+      },
+      "english": {
+        "completed_tasks": [],
+        "in_progress_tasks": []
+      },
+      "history": {
+        "completed_tasks": [],
+        "in_progress_tasks": []
+      },
+      "physics": {
+        "completed_tasks": [],
+        "in_progress_tasks": []
+      }
+    }
+  }
+}
